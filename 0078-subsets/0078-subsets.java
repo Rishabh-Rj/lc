@@ -1,18 +1,26 @@
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length;
-        List<List<Integer>> res = new ArrayList<>();
+    List<List<Integer>> res = new ArrayList<>();
 
-        for (int i = 0; i < (1 << n); i++) {
-            List<Integer> subset = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                if ((i & (1 << j)) != 0) {
-                    subset.add(nums[j]);
-                }
-            }
-            res.add(subset);
+    public List<List<Integer>> subsets(int[] nums) {
+        findSubsets(nums, 0, new ArrayList<>());
+        return res;
+    }
+
+    public void findSubsets(int nums[], int index, List<Integer> sublist) {
+        // Base case
+        if (index == nums.length) {
+            res.add(new ArrayList<>(sublist));
+            return;
         }
 
-        return res;
+        // Pick
+        sublist.add(nums[index]);
+        findSubsets(nums, index + 1, sublist);
+
+        // Backtrack: remove the last added element
+        sublist.remove(sublist.size() - 1);
+
+        // No pick
+        findSubsets(nums, index + 1, sublist);
     }
 }
