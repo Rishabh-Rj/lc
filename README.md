@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Rj/lc/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/Rishabh-Rj/lc/tree/main/0268-missing-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Rishabh-Rj/lc/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Rishabh-Rj/lc/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
