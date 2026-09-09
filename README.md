@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Rj/lc/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Rj/lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/Rishabh-Rj/lc/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabh-Rj/lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Rishabh-Rj/lc/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Rj/lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabh-Rj/lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -45,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabh-Rj/lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Rj/lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
