@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Rj/lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0344-reverse-string](https://github.com/Rishabh-Rj/lc/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabh-Rj/lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -51,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Rj/lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Rishabh-Rj/lc/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
