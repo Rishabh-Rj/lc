@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Rj/lc/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Rishabh-Rj/lc/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rishabh-Rj/lc/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rishabh-Rj/lc/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabh-Rj/lc/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Rishabh-Rj/lc/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Rj/lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/Rishabh-Rj/lc/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rishabh-Rj/lc/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabh-Rj/lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Rishabh-Rj/lc/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -34,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Rishabh-Rj/lc/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rishabh-Rj/lc/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
