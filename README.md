@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Rishabh-Rj/lc/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Rishabh-Rj/lc/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabh-Rj/lc/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Rishabh-Rj/lc/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Rishabh-Rj/lc/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Rishabh-Rj/lc/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Rishabh-Rj/lc/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Rishabh-Rj/lc/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Rishabh-Rj/lc/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Rishabh-Rj/lc/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishabh-Rj/lc/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Rishabh-Rj/lc/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Rishabh-Rj/lc/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
